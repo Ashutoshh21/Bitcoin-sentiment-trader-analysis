@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+historical_data.csv
+fear_greed_index.csv
+.DS_Store
